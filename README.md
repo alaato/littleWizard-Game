@@ -1,3 +1,5 @@
+![image](https://github.com/alaato/littleWizard-Game/assets/68467723/61817ff8-27cc-4fd6-8f50-a68df2387e79)
+
 # littleWizard-Game
 
 Description
