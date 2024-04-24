@@ -51,9 +51,11 @@ will in a clean way, and return "Error\n" followed by an explicit error message 
 
 # Installation
 Before compiling the project it is necessary to have MLX library. (linux provided in the repo, if mac, please install the mac version)
-the library needs some depndincies to install tthem use :
-** _sudo apt-get install gcc make xorg libxext-dev libbsd-dev_
-This project also uses a library "Libft" also developed in the 42 school curriculum. (also provided, so no worries)
+* the library needs some depndincies to install them use :
+ ```
+  sudo apt-get install gcc make xorg libxext-dev libbsd-dev
+  ```
+* This project also uses a library "Libft" also developed in the 42 school curriculum. (also provided, so no worries)
 
 # play
 
